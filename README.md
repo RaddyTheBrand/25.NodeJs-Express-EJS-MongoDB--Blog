@@ -19,7 +19,7 @@ $ npm install
 $ npm run dev
 ```
 
-### YouTube Channel - Raddy
+### YouTube Channels
 
 [Subscribe to TheNetNinja](https://www.youtube.com/@NetNinja)
 
