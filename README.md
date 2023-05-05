@@ -1,4 +1,4 @@
-# NodeJs, Express, EJS & MongoDB Blog
+# NodeJs, Express, EJS & MongoDB Blog - CRUD
 
 ![alt text](/readme-image.jpg?raw=true)
 
