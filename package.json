@@ -22,7 +22,8 @@
     "express-session": "^1.17.3",
     "jsonwebtoken": "^9.0.0",
     "method-override": "^3.0.0",
-    "mongoose": "^7.0.3"
+    "mongoose": "^7.0.3",
+    "slugify": "^1.6.6"
   },
   "devDependencies": {
     "nodemon": "^2.0.22"
